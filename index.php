@@ -5,6 +5,7 @@
     //echo "Aposição pedida é $pos";
     //die();
     
+    
     $signos = [];
 	$signos[] =	'Áries';
 	$signos[] =	'Touro';
